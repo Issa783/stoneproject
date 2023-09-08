@@ -31,6 +31,12 @@ npm start
 ## Screenshots
 A selection of some of the websites interfaces :
 
+![Gallery page](images/gallery.PNG)
+
+![Reviews page](images/review.PNG)
+
+![Booking page](images/book.PNG)
+
 ## Author
 The website is developed by :
 1. [John mutua](https://github.com/Issa783)
