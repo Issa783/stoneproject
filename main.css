@@ -3,7 +3,6 @@ font-family: verdana;
 box-sizing: border-box;
 margin:0;
 padding: 0;
-background-color: #f4f4f4;
 }
 .nav{
     display: flex;
@@ -108,7 +107,7 @@ background-color: #f4f4f4;
     justify-content: center;
     gap: 20px;
     padding: 20px;
-    margin-top: 220px;
+    margin-top: 100px;
 }
 
 .room {
@@ -148,17 +147,17 @@ background-color: #f4f4f4;
 }
 
 .home{
-    background:url("home-slide1.jpg") ;
+    background:url("images/home-slide1.jpg") ;
     height: 100vh;
     animation-name: home;
     animation-duration: 8s;
     animation-iteration-count: infinite;
 }
 @keyframes home {
-0% {background: url("home-slide1.jpg");}
-25% {background: url("home-slide2.jpg") ;}
-50% {background: url("home-slide3.jpg");}
-100% {background: url("home-slide4.jpg");}
+0% {background: url("images/home-slide1.jpg");}
+25% {background: url("images/home-slide2.jpg") ;}
+50% {background: url("images/home-slide3.jpg");}
+100% {background: url("images/home-slide4.jpg");}
 }
 .home h1{
     margin-left: 20%;
